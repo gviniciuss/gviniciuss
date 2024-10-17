@@ -4,7 +4,7 @@ Especializado em React, Node.js, .NET e Next.js, além de trabalhar com mobile u
 
 Você pode entrar em contato comigo pelo LinkedIn ou por email!
 
-<div style="display: inline_block;">
+<div style="display: inline_block;"><br>
   <img align="center" alt="Vini-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
