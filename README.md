@@ -1,7 +1,6 @@
-## Olá! Eu sou o Vinícius, um Desenvolvedor Full Stack Web especializado em React, Node.js, .NET e Next.js, além de trabalhar com mobile utilizando React Native.
+## Olá! Sou o Vinícius, Desenvolvedor Full Stack Web.
 
-No meu GitHub, você encontrará alguns projetos em destaque que mostram uma parte do meu conhecimento e experiência na área. 
-Os projetos realizados para empresas em que trabalhei não estão incluídos ali. Sinta-se à vontade para explorar meu portfólio e conhecer mais sobre o que faço.
+Especializado em React, Node.js, .NET e Next.js, além de trabalhar com mobile utilizando React Native. No meu GitHub, você encontrará alguns projetos em destaque que mostram uma parte do meu conhecimento e experiência na área. Os projetos realizados para empresas em que trabalhei não estão incluídos ali. Sinta-se à vontade para explorar meu portfólio e conhecer mais sobre o que faço.
 
 Você pode entrar em contato comigo pelo LinkedIn ou por email!
 
@@ -21,7 +20,7 @@ Você pode entrar em contato comigo pelo LinkedIn ou por email!
   ##
  
 <div> 
-  <a href = "mailto:viniciusgoncalvess999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:viniciusgoncalvess999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/gviniciuss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
