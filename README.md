@@ -1,7 +1,9 @@
-## Olá! Eu sou o Vinícius, desenvolvedor e criador de conteúdo focado em programação e tecnologia.
+## Olá! Eu sou o Vinícius, um Desenvolvedor Full Stack Web especializado em React, Node.js, .NET e Next.js, além de trabalhar com mobile utilizando React Native.
 
-Se você deseja conhecer mais sobre mim e meu trabalho, confira os links das minhas redes sociais abaixo. 
-No GitHub, você encontrará alguns dos meus principais projetos em destaque. Também pode explorar meu [portfólio]() para ver mais detalhes.
+No meu GitHub, você encontrará alguns projetos em destaque que mostram uma parte do meu conhecimento e experiência na área. 
+Os projetos realizados para empresas em que trabalhei não estão incluídos ali. Sinta-se à vontade para explorar meu portfólio e conhecer mais sobre o que faço.
+
+Você pode entrar em contato comigo pelo LinkedIn ou por email!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
