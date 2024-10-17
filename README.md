@@ -13,7 +13,9 @@ Você pode entrar em contato comigo pelo LinkedIn ou por email!
   <img align="center" alt="Vini-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Vini-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
 </div>
+
 ##
+
 <div>
   <a href="mailto:viniciusgoncalvess999@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
